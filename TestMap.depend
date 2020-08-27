@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1522671267 source:c:\users\dr.ahmedsaleh\desktop\testmap\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
+1522635268 source:c:\users\john\desktop\testmap\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+
